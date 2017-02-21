@@ -6,6 +6,8 @@ track of your file changes.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area contains candidate files for a commit to the repository. It indicates files that are done being change for now.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
