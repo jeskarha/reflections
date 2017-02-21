@@ -11,10 +11,16 @@ The staging area contains candidate files for a commit to the repository. It ind
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+By doing get diff --staged to see the difference between the staged area changes and the latest commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When you want to try a new feature that might not work out or if you are working with someone else on the code.
+
 How do the diagrams help you visualize the branch structure?
+
+They let you see which directions the program has gone in and if they are connected.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
