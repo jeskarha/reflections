@@ -27,4 +27,5 @@ Using Google Doc. It would be much harder to back out and merge changes.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Making changes in a separate branch allows changes to be isolated, modularized, and the code to be worked on 
+in parallel.  But it is certainly a more complicated workflow process than just focusing on one program.
