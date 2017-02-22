@@ -11,7 +11,8 @@ If you weren't ready for your changes to be made public.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks is only for cloning on GitHub. Cloning allows for working on a copy of a codebase. 
+Branches allow for working on different versions of a program.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
