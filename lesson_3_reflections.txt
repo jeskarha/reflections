@@ -22,7 +22,7 @@ You can start working right away and be assured you are working with the latest 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Using Google Doc. It would be much harder to back out and merge changes.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
