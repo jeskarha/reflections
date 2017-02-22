@@ -17,7 +17,7 @@ Branches allow for working on different versions of a program.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+You can start working right away and be assured you are working with the latest copy of the code.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
