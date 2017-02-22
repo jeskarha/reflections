@@ -25,5 +25,10 @@ They let you see which directions the program has gone in and if they are connec
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+A piece of code containing edits from both branches.  To understand the code change history.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+The possibility of time-saving automatic merging would help produce more modular code and save time.  
+
